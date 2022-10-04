@@ -57,13 +57,3 @@ MonoBehaviour:
     m_SpecifySize: 1
     m_Name: YaraF-Cactus
     m_Texture: {fileID: 2800000, guid: dfc0ef3f03a185749b8b1b6df3fa92bf, type: 3}
-  - m_SerializedGuid:
-      m_GuidLow: 4870566769990078770
-      m_GuidHigh: 10553410521622968243
-    m_SerializedTextureGuid:
-      m_GuidLow: 7252875899690831921
-      m_GuidHigh: 10613134682549824763
-    m_Size: {x: 0.3, y: 0.3}
-    m_SpecifySize: 1
-    m_Name: biped_robot_ace_1001_bc
-    m_Texture: {fileID: 2800000, guid: 11105031643464a7fbacc252c36d4993, type: 3}
