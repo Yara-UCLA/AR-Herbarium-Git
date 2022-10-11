@@ -18,42 +18,12 @@ MonoBehaviour:
     m_Storage: []
   m_Images:
   - m_SerializedGuid:
-      m_GuidLow: 5714480785055909191
-      m_GuidHigh: 17622904519600758954
+      m_GuidLow: 4914810686731891831
+      m_GuidHigh: 15473666160156167081
     m_SerializedTextureGuid:
-      m_GuidLow: 6594621579736058046
-      m_GuidHigh: 13194343598608823416
-    m_Size: {x: 0.3, y: 0.42008033}
+      m_GuidLow: 16570043859468825042
+      m_GuidHigh: 6685869387830415192
+    m_Size: {x: 0.3, y: 0.3882353}
     m_SpecifySize: 1
-    m_Name: image-01
-    m_Texture: {fileID: 2800000, guid: 104b08becd635b84783487a798b91bb7, type: 3}
-  - m_SerializedGuid:
-      m_GuidLow: 5443818775441930252
-      m_GuidHigh: 14183838997583801268
-    m_SerializedTextureGuid:
-      m_GuidLow: 14021103819185836232
-      m_GuidHigh: 2303053937271226203
-    m_Size: {x: 0.3, y: 0.41995397}
-    m_SpecifySize: 1
-    m_Name: image-02
-    m_Texture: {fileID: 2800000, guid: f571d0c8f7a2c2945bbf9d955a17f61f, type: 3}
-  - m_SerializedGuid:
-      m_GuidLow: 5467593225250332747
-      m_GuidHigh: 943971556806441620
-    m_SerializedTextureGuid:
-      m_GuidLow: 4419314691611671846
-      m_GuidHigh: 16522364232082749705
-    m_Size: {x: 0.45066082, y: 0.3}
-    m_SpecifySize: 1
-    m_Name: image-03
-    m_Texture: {fileID: 2800000, guid: 282dbd268f4c3d540979e9d6ba3a4be5, type: 3}
-  - m_SerializedGuid:
-      m_GuidLow: 4752215234040052661
-      m_GuidHigh: 14563139338656750486
-    m_SerializedTextureGuid:
-      m_GuidLow: 10287530131272618224
-      m_GuidHigh: 16261420222811925034
-    m_Size: {x: 0.3090909, y: 0.4}
-    m_SpecifySize: 1
-    m_Name: PeixuanL-Plate
-    m_Texture: {fileID: 0}
+    m_Name: JeremyZhikunWU-PLATE
+    m_Texture: {fileID: 2800000, guid: 2c4831d29f19e5f4584f4af4c8fac85c, type: 3}
