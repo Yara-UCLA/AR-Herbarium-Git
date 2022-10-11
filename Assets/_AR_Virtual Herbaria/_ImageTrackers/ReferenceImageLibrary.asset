@@ -48,12 +48,12 @@ MonoBehaviour:
     m_Name: image-03
     m_Texture: {fileID: 2800000, guid: 282dbd268f4c3d540979e9d6ba3a4be5, type: 3}
   - m_SerializedGuid:
-      m_GuidLow: 5564457584958870309
-      m_GuidHigh: 13676419243427595683
+      m_GuidLow: 4665632351166889097
+      m_GuidHigh: 10116258816560147613
     m_SerializedTextureGuid:
-      m_GuidLow: 9616315098121432895
-      m_GuidHigh: 13804371731258510235
+      m_GuidLow: 13462428025064362142
+      m_GuidHigh: 17284590750515823785
     m_Size: {x: 0.3090909, y: 0.4}
     m_SpecifySize: 1
-    m_Name: YaraF-Cactus
-    m_Texture: {fileID: 2800000, guid: dfc0ef3f03a185749b8b1b6df3fa92bf, type: 3}
+    m_Name: YuhanX_Plate
+    m_Texture: {fileID: 2800000, guid: 3839909e26f6bad4a9847fbcb533dfef, type: 3}
