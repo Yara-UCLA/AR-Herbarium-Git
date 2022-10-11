@@ -28,16 +28,6 @@ MonoBehaviour:
     m_Name: image-01
     m_Texture: {fileID: 2800000, guid: 104b08becd635b84783487a798b91bb7, type: 3}
   - m_SerializedGuid:
-      m_GuidLow: 5443818775441930252
-      m_GuidHigh: 14183838997583801268
-    m_SerializedTextureGuid:
-      m_GuidLow: 14021103819185836232
-      m_GuidHigh: 2303053937271226203
-    m_Size: {x: 0.3, y: 0.41995397}
-    m_SpecifySize: 1
-    m_Name: image-02
-    m_Texture: {fileID: 2800000, guid: f571d0c8f7a2c2945bbf9d955a17f61f, type: 3}
-  - m_SerializedGuid:
       m_GuidLow: 5467593225250332747
       m_GuidHigh: 943971556806441620
     m_SerializedTextureGuid:
@@ -48,12 +38,12 @@ MonoBehaviour:
     m_Name: image-03
     m_Texture: {fileID: 2800000, guid: 282dbd268f4c3d540979e9d6ba3a4be5, type: 3}
   - m_SerializedGuid:
-      m_GuidLow: 5564457584958870309
-      m_GuidHigh: 13676419243427595683
+      m_GuidLow: 4800876926398620068
+      m_GuidHigh: 4144751288422686386
     m_SerializedTextureGuid:
-      m_GuidLow: 9616315098121432895
-      m_GuidHigh: 13804371731258510235
-    m_Size: {x: 0.3090909, y: 0.4}
+      m_GuidLow: 4878702255175533728
+      m_GuidHigh: 5402353929292003226
+    m_Size: {x: 0.3, y: 0.3882353}
     m_SpecifySize: 1
-    m_Name: YaraF-Cactus
-    m_Texture: {fileID: 2800000, guid: dfc0ef3f03a185749b8b1b6df3fa92bf, type: 3}
+    m_Name: Mocandi_Herbarium Plate
+    m_Texture: {fileID: 2800000, guid: 44a284a0a1da43b49ab7629a4604f94a, type: 3}
