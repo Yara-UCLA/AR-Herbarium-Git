@@ -161,8 +161,14 @@ MonoBehaviour:
   - imageGuid: 6bd1780c-5455-4b8c-b4ab-504a6b1ed7c4
     imagePrefab: {fileID: 6831831457022163974, guid: 0e505b7178d5c0f4ba492468e7ebd12a,
       type: 3}
-  - imageGuid: c2de8cf5-64e1-4654-8415-424e33263259
-    imagePrefab: {fileID: 1400782344433631907, guid: 5e9e5df03ce449e4fa38536a4bb8115f,
+  - imageGuid: df60e04b-cb11-4be0-943a-852921a9190d
+    imagePrefab: {fileID: 2481880503787685997, guid: 6b1a73d97eda07b44aa778653f523bd0,
+      type: 3}
+  - imageGuid: 5fdf7c89-a7e7-40bf-9d2c-fba0cb2b648c
+    imagePrefab: {fileID: 430751599314366572, guid: bb649ff18eb515941b96ef06b26a495b,
+      type: 3}
+  - imageGuid: 9c09cdf6-e890-41d5-b9fe-b35661b0f73b
+    imagePrefab: {fileID: 8883763715171605720, guid: 3421acb2eaa6bb94ca804a1646fafd0d,
       type: 3}
   m_ImageLibrary: {fileID: 11400000, guid: 088b3adb2a102f543bd556db081b2486, type: 2}
 --- !u!114 &264295717
@@ -568,7 +574,7 @@ Transform:
   m_GameObject: {fileID: 1291259208}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1.5745, y: 1.5745, z: 1.0333444}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -726,6 +732,21 @@ PrefabInstance:
         type: 3}
       propertyPath: m_SizeDelta.y
       value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 2304810881573073946, guid: 4ee22c1f54b174122b6a766fe09e0de8,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 11.103674
+      objectReference: {fileID: 0}
+    - target: {fileID: 2304810881573073946, guid: 4ee22c1f54b174122b6a766fe09e0de8,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 11.103674
+      objectReference: {fileID: 0}
+    - target: {fileID: 2304810881573073946, guid: 4ee22c1f54b174122b6a766fe09e0de8,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 11.103674
       objectReference: {fileID: 0}
     - target: {fileID: 2304810881573073946, guid: 4ee22c1f54b174122b6a766fe09e0de8,
         type: 3}
