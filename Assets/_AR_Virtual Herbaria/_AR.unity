@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44402242, g: 0.49316543, b: 0.5722324, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -161,11 +161,8 @@ MonoBehaviour:
   - imageGuid: 6bd1780c-5455-4b8c-b4ab-504a6b1ed7c4
     imagePrefab: {fileID: 6831831457022163974, guid: 0e505b7178d5c0f4ba492468e7ebd12a,
       type: 3}
-  - imageGuid: df60e04b-cb11-4be0-943a-852921a9190d
-    imagePrefab: {fileID: 2481880503787685997, guid: 6b1a73d97eda07b44aa778653f523bd0,
-      type: 3}
-  - imageGuid: 17339325-ecb1-4d38-a385-d153d766ccbd
-    imagePrefab: {fileID: 1250735463098546450, guid: 4239f4b062b41874e8a63f1721ac17d3,
+  - imageGuid: c2de8cf5-64e1-4654-8415-424e33263259
+    imagePrefab: {fileID: 1400782344433631907, guid: 5e9e5df03ce449e4fa38536a4bb8115f,
       type: 3}
   m_ImageLibrary: {fileID: 11400000, guid: 088b3adb2a102f543bd556db081b2486, type: 2}
 --- !u!114 &264295717
@@ -546,6 +543,7 @@ MonoBehaviour:
     type: 3}
   m_DeselectOnBackgroundClick: 1
   m_PointerBehavior: 0
+  m_CursorLockBehavior: 0
 --- !u!114 &1291259210
 MonoBehaviour:
   m_ObjectHideFlags: 0
