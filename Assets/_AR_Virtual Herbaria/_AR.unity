@@ -164,9 +164,8 @@ MonoBehaviour:
   - imageGuid: df60e04b-cb11-4be0-943a-852921a9190d
     imagePrefab: {fileID: 2481880503787685997, guid: 6b1a73d97eda07b44aa778653f523bd0,
       type: 3}
-  - imageGuid: 17339325-ecb1-4d38-a385-d153d766ccbd
-    imagePrefab: {fileID: 1250735463098546450, guid: 4239f4b062b41874e8a63f1721ac17d3,
-      type: 3}
+  - imageGuid: a0f2b477-ea47-4434-a94b-17c16381bdd6
+    imagePrefab: {fileID: 0}
   m_ImageLibrary: {fileID: 11400000, guid: 088b3adb2a102f543bd556db081b2486, type: 2}
 --- !u!114 &264295717
 MonoBehaviour:
@@ -546,6 +545,7 @@ MonoBehaviour:
     type: 3}
   m_DeselectOnBackgroundClick: 1
   m_PointerBehavior: 0
+  m_CursorLockBehavior: 0
 --- !u!114 &1291259210
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -570,7 +570,7 @@ Transform:
   m_GameObject: {fileID: 1291259208}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1.5745, y: 1.5745, z: 1.0333444}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -728,6 +728,21 @@ PrefabInstance:
         type: 3}
       propertyPath: m_SizeDelta.y
       value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 2304810881573073946, guid: 4ee22c1f54b174122b6a766fe09e0de8,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 11.103674
+      objectReference: {fileID: 0}
+    - target: {fileID: 2304810881573073946, guid: 4ee22c1f54b174122b6a766fe09e0de8,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 11.103674
+      objectReference: {fileID: 0}
+    - target: {fileID: 2304810881573073946, guid: 4ee22c1f54b174122b6a766fe09e0de8,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 11.103674
       objectReference: {fileID: 0}
     - target: {fileID: 2304810881573073946, guid: 4ee22c1f54b174122b6a766fe09e0de8,
         type: 3}
