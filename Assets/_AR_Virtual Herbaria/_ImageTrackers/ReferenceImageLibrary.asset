@@ -28,16 +28,6 @@ MonoBehaviour:
     m_Name: image-01
     m_Texture: {fileID: 2800000, guid: 104b08becd635b84783487a798b91bb7, type: 3}
   - m_SerializedGuid:
-      m_GuidLow: 5443818775441930252
-      m_GuidHigh: 14183838997583801268
-    m_SerializedTextureGuid:
-      m_GuidLow: 14021103819185836232
-      m_GuidHigh: 2303053937271226203
-    m_Size: {x: 0.3, y: 0.41995397}
-    m_SpecifySize: 1
-    m_Name: image-02
-    m_Texture: {fileID: 2800000, guid: f571d0c8f7a2c2945bbf9d955a17f61f, type: 3}
-  - m_SerializedGuid:
       m_GuidLow: 5467593225250332747
       m_GuidHigh: 943971556806441620
     m_SerializedTextureGuid:
@@ -58,12 +48,12 @@ MonoBehaviour:
     m_Name: YaraF-Cactus
     m_Texture: {fileID: 2800000, guid: dfc0ef3f03a185749b8b1b6df3fa92bf, type: 3}
   - m_SerializedGuid:
-      m_GuidLow: 5072858749746820505
-      m_GuidHigh: 8477857974489001861
+      m_GuidLow: 4744884790614699230
+      m_GuidHigh: 3221911170156044461
     m_SerializedTextureGuid:
-      m_GuidLow: 15025285988213324562
-      m_GuidHigh: 8984832819040315594
+      m_GuidLow: 6432413598080627841
+      m_GuidHigh: 507349463825163802
     m_Size: {x: 0.3, y: 0.3882353}
     m_SpecifySize: 1
-    m_Name: YiyuanM-CactusPlate
-    m_Texture: {fileID: 2800000, guid: b81bfb1289ffd084ca682b61d889b07c, type: 3}
+    m_Name: Yunxuan X_cactus plate
+    m_Texture: {fileID: 2800000, guid: 49fcf481861659441aa64838a6770a07, type: 3}
