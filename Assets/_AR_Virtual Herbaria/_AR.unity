@@ -164,6 +164,9 @@ MonoBehaviour:
   - imageGuid: c1da4999-23ee-4c80-8520-1e9b8840bce3
     imagePrefab: {fileID: 2275970473196476739, guid: b0e0d9d0913678d4bacef460b6e8a16f,
       type: 3}
+  - imageGuid: 49540056-6ea0-4c55-8a19-266c1eaaaba6
+    imagePrefab: {fileID: 2587919447035942887, guid: 5b2c90870d9d0134a81ebca8511ede04,
+      type: 3}
   m_ImageLibrary: {fileID: 11400000, guid: 088b3adb2a102f543bd556db081b2486, type: 2}
 --- !u!114 &264295717
 MonoBehaviour:
