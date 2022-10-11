@@ -167,6 +167,9 @@ MonoBehaviour:
   - imageGuid: e23675dd-211c-4b33-abdf-7f2db43d1db9
     imagePrefab: {fileID: 229275818045054441, guid: ac5846ab317d841458fbb1d94e2b77c5,
       type: 3}
+  - imageGuid: c77be25b-de0f-4f9d-a667-547fcb35b950
+    imagePrefab: {fileID: 3886428669714841745, guid: 49c4bfd9398e18b49b834637ba694427,
+      type: 3}
   m_ImageLibrary: {fileID: 11400000, guid: 088b3adb2a102f543bd556db081b2486, type: 2}
 --- !u!114 &264295717
 MonoBehaviour:
@@ -242,7 +245,7 @@ Light:
   m_Type: 1
   m_Shape: 0
   m_Color: {r: 1, g: 0.95686275, b: 0.8392157, a: 1}
-  m_Intensity: 1
+  m_Intensity: 0.5
   m_Range: 10
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.802082
