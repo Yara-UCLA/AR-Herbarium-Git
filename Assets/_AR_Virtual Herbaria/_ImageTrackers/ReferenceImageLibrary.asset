@@ -38,12 +38,12 @@ MonoBehaviour:
     m_Name: image-03
     m_Texture: {fileID: 2800000, guid: 282dbd268f4c3d540979e9d6ba3a4be5, type: 3}
   - m_SerializedGuid:
-      m_GuidLow: 5761784893546264752
-      m_GuidHigh: 15992671047050300603
+      m_GuidLow: 5512445452262984089
+      m_GuidHigh: 16410062097693417605
     m_SerializedTextureGuid:
-      m_GuidLow: 9422683139691956005
-      m_GuidHigh: 3543512211652524968
+      m_GuidLow: 17713950208128739385
+      m_GuidHigh: 15380257902678030265
     m_Size: {x: 0.3, y: 0.3882353}
     m_SpecifySize: 1
-    m_Name: AnqiP-JoshuaTree-Plate
-    m_Texture: {fileID: 2800000, guid: 5c66c725186482c4a8bbce0895152d31, type: 3}
+    m_Name: YueW-cactus plate
+    m_Texture: {fileID: 2800000, guid: 9c78683997dcf5d4b9b7040b13a771d5, type: 3}
