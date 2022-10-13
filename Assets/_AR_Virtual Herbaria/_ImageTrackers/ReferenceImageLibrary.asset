@@ -57,3 +57,13 @@ MonoBehaviour:
     m_SpecifySize: 1
     m_Name: YaraF-Cactus
     m_Texture: {fileID: 2800000, guid: dfc0ef3f03a185749b8b1b6df3fa92bf, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5183019014316274903
+      m_GuidHigh: 4815798139568750493
+    m_SerializedTextureGuid:
+      m_GuidLow: 10634172237219145248
+      m_GuidHigh: 8787814007233432603
+    m_Size: {x: 0.3, y: 0.3882353}
+    m_SpecifySize: 1
+    m_Name: FangyinW-plate
+    m_Texture: {fileID: 2800000, guid: b7c4a6202b4e93941bcc599d4796f479, type: 3}
